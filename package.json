@@ -1,0 +1,17 @@
+{
+  "name": "Forum-Edit",
+  "version": "1.0.0",
+  "description": "API proxy for editing Scratch forum topics with various external tools, including Google Apps Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "AmazingMech2418",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-fetch": "2.6.7",
+    "serverfire": "^1.0.2"
+  }
+}
